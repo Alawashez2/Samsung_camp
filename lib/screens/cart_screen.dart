@@ -6,7 +6,6 @@ import 'package:samsung_camp/components/user_recommendation.dart';
 import 'package:samsung_camp/constants/app_styles.dart';
 import 'package:samsung_camp/constants/constants.dart';
 import 'package:samsung_camp/data/global_data.dart';
-import 'package:samsung_camp/util/add_to_cart.dart';
 
 class CartScreen extends StatefulWidget {
   const CartScreen({super.key});
