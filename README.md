@@ -1,11 +1,11 @@
-# samsung_camp
+# Samsung_camp
 
 Supermarket app uses deep learning to suggest a new product to the user depending on his chosen product
 
-### note:
+### Note:
 In this app, we have solely focused on the main features of the model, so we built the app based on them
 
-## technologies and tools:
+## Technologies and tools:
 - <b>FastApi :</b> to deploy the model
 - <b>BLoC : </b> state management
 - <b>Serper Api : </b> is a low-cost Google Search API that can be used to retrieve search results from Google , we use it to get prduct image
