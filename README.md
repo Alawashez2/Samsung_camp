@@ -5,12 +5,12 @@ Supermarket app uses deep learning to suggest a new product to the user dependin
 ### note:
 In this app, we have solely focused on the main features of the model, so we built the app based on them
 
-# technologies and tools:
+## technologies and tools:
 - <b>FastApi :</b> to deploy the model
 - <b>BLoC : </b> state management
 - <b>Serper Api : </b> is a low-cost Google Search API that can be used to retrieve search results from Google , we use it to get prduct image
 
-# ScrenShoots:
+## ScrenShoots:
 #### initial screen  
 <img src="https://github.com/Alawashez2/Samsung_camp/assets/94991478/592a8cb5-2d37-42ab-a8c5-fa91f6c7caba" width=200/>  
 
@@ -36,7 +36,7 @@ User can add a recommended product directly to the cart
 
 
     
-# Demo    
+## Demo    
 https://github.com/Alawashez2/Samsung_camp/assets/94991478/c4d56a03-65bb-4d27-94c7-dc871d6a356f
 
 
